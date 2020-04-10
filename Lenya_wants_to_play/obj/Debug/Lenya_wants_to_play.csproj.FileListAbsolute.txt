@@ -1,0 +1,9 @@
+C:\Users\1\source\repos\Lenya_wants_to_play\Lenya_wants_to_play\bin\Debug\Lenya_wants_to_play.exe.config
+C:\Users\1\source\repos\Lenya_wants_to_play\Lenya_wants_to_play\bin\Debug\Lenya_wants_to_play.exe
+C:\Users\1\source\repos\Lenya_wants_to_play\Lenya_wants_to_play\bin\Debug\Lenya_wants_to_play.pdb
+C:\Users\1\source\repos\Lenya_wants_to_play\Lenya_wants_to_play\obj\Debug\Lenya_wants_to_play.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Lenya_wants_to_play\Lenya_wants_to_play\obj\Debug\Lenya_wants_to_play.Form1.resources
+C:\Users\1\source\repos\Lenya_wants_to_play\Lenya_wants_to_play\obj\Debug\Lenya_wants_to_play.Properties.Resources.resources
+C:\Users\1\source\repos\Lenya_wants_to_play\Lenya_wants_to_play\obj\Debug\Lenya_wants_to_play.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Lenya_wants_to_play\Lenya_wants_to_play\obj\Debug\Lenya_wants_to_play.exe
+C:\Users\1\source\repos\Lenya_wants_to_play\Lenya_wants_to_play\obj\Debug\Lenya_wants_to_play.pdb
